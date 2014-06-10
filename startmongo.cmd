@@ -1,0 +1,1 @@
+D:\Tools\mongodb-win32-i386-2.6.0\bin\mongod.exe --replSet myDevReplSet --dbpath D:\Tools\mongodb-win32-i386-2.6.0\data\db
